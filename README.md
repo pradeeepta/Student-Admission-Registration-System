@@ -45,22 +45,17 @@ A web-based student admission management system built with Flask and MySQL, feat
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/college-admission-system.git
-   cd college-admission-system
+   git clone https://github.com/yourusername/reponame.git
+   cd reponame
    ```
 
-2. **Create a virtual environment**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
 
-3. **Install dependencies**
+2. **Install dependencies**
    ```bash
    pip install flask mysql-connector-python
    ```
 
-4. **Set up the MySQL database**
+3. **Set up the MySQL database (Full Code Available in Repository)** 
    ```sql
    CREATE DATABASE college_admission;
    USE college_admission;
@@ -82,15 +77,15 @@ A web-based student admission management system built with Flask and MySQL, feat
    );
    ```
 
-5. **Configure database connection**
+4. **Configure database connection**
    - Update the `db_config` dictionary in the code with your MySQL credentials
 
-6. **Run the application**
+5. **Run the application**
    ```bash
    python app.py
    ```
 
-7. **Access the application**
+6. **Access the application**
    - Student Portal: `http://localhost:5000`
    - Admin Login: `http://localhost:5000/admin`
    - Admin Credentials:
@@ -126,7 +121,7 @@ A web-based student admission management system built with Flask and MySQL, feat
 - Quick actions for application processing
 - Performance metrics visualization
 
-## 🛡️ Security Considerations
+## 🛡️ Security Considerations (Additions if Possible)
 
 - Implement proper password hashing for admin credentials
 - Add session management
@@ -142,18 +137,7 @@ A web-based student admission management system built with Flask and MySQL, feat
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Flask documentation
-- Tailwind CSS team
-- MySQL community
-- SweetAlert2 developers
 
 ## 📞 Contact
 
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/college-admission-system](https://github.com/yourusername/college-admission-system)
+Don't Contact me :)
