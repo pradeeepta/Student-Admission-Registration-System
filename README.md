@@ -1,4 +1,4 @@
-# College Admission Registration System 🎓
+# Student-Admission-Registration-System 🎓
 
 A web-based student admission management system built with Flask and MySQL, featuring a modern UI with Tailwind CSS.
 
